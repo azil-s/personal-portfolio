@@ -40,7 +40,7 @@ export default function Hero() {
               My Dev Work
             </a>
             <a
-              href="#contact"
+              href="#itblog"
               className="px-6 py-3 bg-gray-200 text-gray-800 rounded-lg shadow hover:bg-gray-300 transition"
             >
               My IT Work
