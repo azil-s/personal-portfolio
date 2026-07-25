@@ -33,7 +33,7 @@ export default function Navbar() {
     <nav className="fixed top-0 left-0 w-full bg-brand-blue shadow-md z-50">
       <div className="max-w-6xl mx-auto flex justify-between items-center p-4">
         <a href="#home" className="text-xl font-bold text-brand-beige">
-          MyPortfolio
+          Sami Azil Fanzi
         </a>
 
         <div className="hidden md:flex space-x-6">

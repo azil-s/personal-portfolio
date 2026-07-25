@@ -26,7 +26,7 @@ export default function Hero() {
       <div className="container mx-auto flex flex-col md:flex-row items-center justify-between max-w-6xl space-y-8 md:space-y-0 relative z-10">
         <div className="flex-1 max-w-xl space-y-6 text-center md:text-left mx-auto md:mx-0 md:pl-8">
           <h1 className="text-4xl md:text-6xl font-bold text-gray-900">
-            HI, I'M ALEX
+            HI, I'M SAMI
           </h1>
           <p className="text-lg text-gray-700">
             Developer • IT Support • Problem Solver
