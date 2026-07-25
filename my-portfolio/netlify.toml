@@ -1,7 +1,7 @@
 [build]
   base = "my-portfolio"
   command = "npm run build"
-  publish = "my-portfolio/dist"
+  publish = "dist"
 
 [[redirects]]
   from = "/assets/*"
