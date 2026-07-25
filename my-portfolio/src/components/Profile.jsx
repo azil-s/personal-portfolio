@@ -38,12 +38,12 @@ export default function Profile() {
                 href="mailto:youremail@example.com"
                 className="flex items-center text-gray-700 hover:text-blue-600"
               >
-                <Mail className="w-5 h-5 mr-2" /> youremail@example.com
+                <Mail className="w-5 h-5 mr-2" /> azilsami96@gmail.com
               </a>
             </li>
             <li>
               <a
-                href="https://github.com/yourusername"
+                href="https://github.com/azil-s/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center text-gray-700 hover:text-blue-600"
@@ -53,7 +53,7 @@ export default function Profile() {
             </li>
             <li>
               <a
-                href="https://linkedin.com/in/yourusername"
+                href="https://www.linkedin.com/in/sami-azil-27a565208/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center text-gray-700 hover:text-blue-600"
