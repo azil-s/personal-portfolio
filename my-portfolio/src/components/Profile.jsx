@@ -35,7 +35,7 @@ export default function Profile() {
           <ul className="space-y-3">
             <li>
               <a
-                href="mailto:youremail@example.com"
+                href="mailto:azilsami96@gmail.com"
                 className="flex items-center text-gray-700 hover:text-blue-600"
               >
                 <Mail className="w-5 h-5 mr-2" /> azilsami96@gmail.com
@@ -48,7 +48,7 @@ export default function Profile() {
                 rel="noopener noreferrer"
                 className="flex items-center text-gray-700 hover:text-blue-600"
               >
-                <Github className="w-5 h-5 mr-2" /> github.com/yourusername
+                <Github className="w-5 h-5 mr-2" /> github.com/azil-s
               </a>
             </li>
             <li>
@@ -59,7 +59,7 @@ export default function Profile() {
                 className="flex items-center text-gray-700 hover:text-blue-600"
               >
                 <Linkedin className="w-5 h-5 mr-2" />{" "}
-                linkedin.com/in/yourusername
+                linkedin.com/in/sami-azil-27a565208
               </a>
             </li>
           </ul>
