@@ -8,8 +8,8 @@ export const projects = [
     description:
       "A browser-based Rock-Paper-Scissors game built with vanilla JavaScript, featuring DOM manipulation, real-time score tracking, and interactive gameplay.",
     tech: ["JavaScript", "CSS", "DOM"],
-    demo: "https://swirly-way.github.io/rock-paper-scissors/",
-    github: "https://github.com/swirly-way/rock-paper-scissors",
+    demo: "https://azil-s.github.io/rock-paper-scissors/",
+    github: "https://github.com/azil-s/rock-paper-scissors",
     image: rockPaperScissors,
   },
   {
@@ -19,7 +19,7 @@ export const projects = [
       "A single-page TypeScript + Vite blog summarizing key cybersecurity concepts for developers. Clean, responsive UI with Chakra UI and React Icons. It features organized content on basic security practices (authentication, encryption, common vulnerabilities).",
     tech: ["TypeScript", "React", "Chakra UI", "Vercel for Deployment"],
     demo: "https://cybersecurity-blog-concept.vercel.app/",
-    github: "https://github.com/swirly-way/cybersecurity-blog-concept",
+    github: "https://github.com/azil-s/cybersecurity-blog-concept",
     image: cyberBlog,
   },
   {
