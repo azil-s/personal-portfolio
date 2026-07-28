@@ -2,23 +2,23 @@ export default function Footer() {
   return (
     <footer className="bg-gray-900 text-gray-400 text-center text-sm">
       <p>
-        © 2025 Your Name •
+        © 2026 Sami Azil •
         <a
-          href="https://github.com/yourusername"
+          href="https://github.com/azil-s"
           className="hover:text-white mx-2"
         >
           GitHub
         </a>{" "}
         •
         <a
-          href="https://linkedin.com/in/yourusername"
+          href="https://www.linkedin.com/in/sami-azil-27a565208/"
           className="hover:text-white mx-2"
         >
           LinkedIn
         </a>{" "}
         •
         <a
-          href="mailto:youremail@example.com"
+          href="mailto:azilsami96@gmail.com"
           className="hover:text-white mx-2"
         >
           Email
